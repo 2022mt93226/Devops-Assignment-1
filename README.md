@@ -5,8 +5,7 @@ This repository is created by student of BITS from M.Tech WILP 2022-24 as an ass
 Follow this link: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 # How to clone this repository -
-Use following command to clone: `git clone`
-
+Use following command to clone: `git clone https://github.com/2022mt93226/Devops-Assignment-1.git`
 # How to create a branch -
 - git branch creation operation: `git branch "branch_name"`
 - checkout the created branch operation: `git checkout "branch_name"`
@@ -18,7 +17,7 @@ Use following command to clone: `git clone`
 - git push operation: `git push origin "branch_name"`
 
 # How to create a pull request -
-- goto the GitHub repo page: 
+- goto the GitHub repo page: https://github.com/2022mt93226/Devops-Assignment-1.git 
 - Login with your username & password
 - click on `Pull requests`
 - click on `New pull request`
